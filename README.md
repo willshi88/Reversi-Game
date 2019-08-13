@@ -3,7 +3,9 @@ Self-developed AI strategy for Reversi
 
 The AI is built based on Minimax & Alpha-beta algorithm
 
-![Reversi](Images/picture.png)
+![image](Images/Picture.png)
+
+
 AI Strategy
 -------
 (Different strategies are measured and weighted according to chess number placed / fixed standard):
