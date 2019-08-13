@@ -1,4 +1,4 @@
-# Reversi-Game
+# Reversi-Game (Othello)
 Self-developed AI strategy for Reversi
 
 The AI is built based on Minimax & Alpha-beta algorithm
@@ -20,4 +20,4 @@ AI Strategy
 
 * numbers decision, which measures the absolute difference of chess numbers. (Weight increases gradually, and highly weighted in the end)
 
-* Trying to apply simulated annealing now
+* Trying applying simulated annealing strategy
