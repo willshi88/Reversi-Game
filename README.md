@@ -1,16 +1,14 @@
 # Reversi-Game (Othello)
 Self-developed AI strategy for Reversi
-<p>Computer Reversi Game and also an AI Player for AI Competition.</p>
-<p>this project consists of a GUI for Playing Othello and also an AI Player.</p>
+
 
 <br/>
 <p align="center">
   <img width="500" height="522" src="/../master/demo.gif?raw=true"/>
   
-  <p align="center">AI Algorithm (Black) vs. Greedy Algorithm (White)</p>
+  <p align="center">AI (Black) & Greedy (White)</p>
 </p>
 
-![image](Images/Picture.png)
 
 
 AI Strategy
