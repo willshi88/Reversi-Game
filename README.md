@@ -4,7 +4,7 @@ Self-developed AI strategy for Reversi
 
 <br/>
 <p align="center">
-  <img width="500" height="522" src="/../master/demo.gif?raw=true"/>
+  <img width="500" height="522" src="/../master/Images/demo.gif?raw=true"/>
   
   <p align="center">AI (Black) & Greedy (White)</p>
 </p>
