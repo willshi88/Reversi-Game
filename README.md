@@ -1,7 +1,5 @@
 # Reversi-Game (Othello)
 Self-developed AI strategy for Reversi
-
-
 <br/>
 <p align="center">
   <img width="500" height="522" src="/../master/Images/demo.gif?raw=true"/>
